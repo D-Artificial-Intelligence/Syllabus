@@ -12,3 +12,5 @@
 ## Books
 
 * Chollet, F. (2018), Deep learning with Python, 1st edn, Manning Publications Co.
+
+* Camastra, F. Vinciarelli, A (2007). Machine Learning for Audio, Image and Video Analysis.
