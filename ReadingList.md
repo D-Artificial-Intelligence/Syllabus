@@ -17,3 +17,11 @@ https://arxiv.org/pdf/1807.10108.pdf
 * Chollet, F. (2018), Deep learning with Python, 1st edn, Manning Publications Co.
 
 * Camastra, F. Vinciarelli, A (2007). Machine Learning for Audio, Image and Video Analysis.
+
+## Useful Datasets
+
+#### Natural Images
+
+* https://www.kaggle.com/prasunroy/natural-images/version/1
+
+8 classes (.jpg form): airplane, car, cat, dog, flower, fruit, motorbike
