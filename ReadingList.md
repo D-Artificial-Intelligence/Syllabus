@@ -20,9 +20,9 @@ https://arxiv.org/pdf/1807.10108.pdf
 
 ## Useful Datasets
 
-#### Google's Dataset Search Tool:
+#### Google's Dataset Search Tool
 
-https://toolbox.google.com/datasetsearch
+* https://toolbox.google.com/datasetsearch
 
 #### Natural Images
 
