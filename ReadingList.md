@@ -8,6 +8,9 @@
 
 * Sekitoshi Kanai, Yasuhiro Fujiwara, Y. Y. S. A. (2018), ‘Sigsoftmax: Reanalysis of the softmax bottleneck’. Submitted for publication.
 
+* Roy, Prasun et al. (2028), 'Effects of Degradations on Deep Neural Network Architectures' Submitted for publication. 
+https://arxiv.org/pdf/1807.10108.pdf
+
 
 ## Books
 
