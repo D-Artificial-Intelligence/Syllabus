@@ -29,3 +29,13 @@ https://arxiv.org/pdf/1807.10108.pdf
 * https://www.kaggle.com/prasunroy/natural-images/version/1
 
 8 classes (.jpg form): airplane, car, cat, dog, flower, fruit, motorbike
+
+## Useful learning tools
+
+#### create your own neural network
+
+* https://playground.tensorflow.org
+
+#### create your own neural network diagram
+
+* http://alexlenail.me/NN-SVG/
